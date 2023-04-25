@@ -1,1 +1,3 @@
-# Java-Collection-
+# Java-Collection
+
+- Learn about Collection
